@@ -1,6 +1,6 @@
-# 🧮 Project Euler Solutions
+## 🧮 Project Euler
 
-This repository contains my personal solutions to [Project Euler](https://projecteuler.net/), a collection of challenging mathematical and computational problems intended to be solved with creative problem solving and programming.
+This repository contains my personal solutions to problems 1-100 of [Project Euler](https://projecteuler.net/), a collection of challenging mathematical and computational problems intended to be solved with creative problem solving and programming.
 
 Solutions are required to have a runtime of less than 1 minute.
 
