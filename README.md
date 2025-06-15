@@ -15,3 +15,5 @@ To solve as many problems as possible by understanding the maths first, to minim
 ## 📁 Structure
 
 Each problem is in its own folder, labeled by its problem number.
+
+---
