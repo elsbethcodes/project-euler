@@ -6,9 +6,9 @@ Solutions are required to have a runtime of less than 1 minute.
 
 ---
 
-## ✨ My Goal
+## ✨ Goal
 
-To solve as many problems as possible by understanding the maths first, to minimise the reliance on code for a solution.
+My goal is to solve as many problems as possible by understanding the maths first, to minimise the reliance on code for a solution.
 
 ---
 
